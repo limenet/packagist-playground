@@ -1,0 +1,6 @@
+{
+    "name": "limenet/packagist-playground",
+    "description": "A playground for integration with packagist.org",
+    "license": "MIT",
+    "require": {}
+}
